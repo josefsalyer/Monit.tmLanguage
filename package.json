@@ -1,0 +1,13 @@
+{
+  "name": "Monit.tmLanguage",
+  "description": "For monit configuration highlighting. Based on <https://github.com/jaygooby/Monit.tmbundle>",
+  "author": "josefsalyer",
+  "details": "https://github.com/josefsalyer/Monit.tmLanguage",
+  "labels": ["language syntax"],
+  "releases": [
+    {
+      "sublime_text": "*",
+      "details": "https://github.com/josefsalyer/Monit.tmLanguage/tags"
+    }
+  ]
+}
